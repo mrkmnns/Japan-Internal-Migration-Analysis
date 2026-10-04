@@ -1,5 +1,5 @@
 # Japan Internal Migration Analysis
-An analysis on the domestic migration within Japan. Dataset was cleaned using SQL, while dashboards/visualisations are made using Power BI 
+An analysis on the domestic migration within Japan. Dataset was cleaned using SQL, while dashboards/visualisations are made using Power BI. Note: DAX written in Power BI was AI-assisted due to my lack of experience with it 
 Dataset used:
 
 <img width="1447" height="822" alt="image" src="https://github.com/user-attachments/assets/b2f17a22-aabc-4a83-a302-bac9ebe8dd58" />
