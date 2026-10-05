@@ -37,7 +37,7 @@ Corporate transfers, graduates getting jobs in the metropolitan area, and studen
 
 <img width="1460" height="811" alt="image" src="https://github.com/user-attachments/assets/d1e7eb9c-0607-4f93-a139-8a1a8cfb3682" />
 
-Additionally, the graph for net migration as well as the cards has a slicer that can adjust based on the year. This is 2025 for example. 2026 stops at July due to the data being up til 2026.
+Additionally, the graph for net migration as well as the cards has a slicer that can adjust based on the year. This is 2026 for example. 2026 stops at July due to the data only being recorded until that month
 
 <img width="1439" height="803" alt="image" src="https://github.com/user-attachments/assets/07b14b93-6027-4d88-910e-6f4b95cde70f" />
 
