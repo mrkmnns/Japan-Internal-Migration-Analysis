@@ -41,7 +41,7 @@ Additionally, the graph for net migration as well as the cards has a slicer that
 
 <img width="1439" height="803" alt="image" src="https://github.com/user-attachments/assets/07b14b93-6027-4d88-910e-6f4b95cde70f" />
 
-This page shows the migration volumes changing over time. Migration shows a decline from 2020 to 2021, this is understandable due to travel bans and quarantine from COVID-19. Subsequently, when it was lifted, the migration shows initial recovery followed by growth. 
+This page shows the migration volumes changing over time. Migration shows a decline from 2020 to 2021, this is understandable due to travel bans and quarantine from COVID-19. Subsequently, when it was lifted, the migration shows initial recovery followed by growth. Monthly average in-migration substantially outperform out-migration, and even slowly increases across the years. This shows that the typical monthly migration has increased.
 
 The year-over-year migration enforces this pattern, with a 204.8% increase in 2022, with a sharp drop to 9.5%, 5.1% and 6.3% following 2023 to 2025. 2026 is excluded for the data abruptly stopping at July, so it wouldn't be accurate to include it.
 
